@@ -1,6 +1,6 @@
 ### Some facts about me
 - FKA `unsaidxpl`
-- Backend Engineer @ [Republic](republic.co)
+- Backend Engineer @ [Republic](https://republic.co)
 - I'm also into frontend stuff like [Vue](https://github.com/vuejs/vue) and [React](https://github.com/facebook/react)
 - Trying to master [Elixir]([github.com/elixir/elixir](https://github.com/elixir-lang/elixir))
 
